@@ -1,5 +1,5 @@
 ---
-mode: default
+description: default
 ---
 
 # API Handler With No Error Paths

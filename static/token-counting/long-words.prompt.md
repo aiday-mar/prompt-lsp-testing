@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with very long underscore-joined identifiers
 ---
 
 # Expensive Tokens Prompt

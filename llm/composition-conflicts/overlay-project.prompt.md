@@ -1,5 +1,5 @@
 ---
-mode: compose
+description: Project overlay that contradicts base standards on every rule
 ---
 
 # Conflicting Project Overlay

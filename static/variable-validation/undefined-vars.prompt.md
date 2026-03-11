@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt referencing undefined variables
 ---
 
 # API Service Prompt

@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt mixing XML tags with Markdown conventions
 ---
 
 # Mixed Formatting

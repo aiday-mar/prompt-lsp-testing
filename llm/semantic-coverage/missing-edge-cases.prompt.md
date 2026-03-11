@@ -1,5 +1,5 @@
 ---
-mode: default
+description: default
 ---
 
 # Code Generator With Missing Edge Cases

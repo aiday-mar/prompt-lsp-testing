@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with vague and undefined terminology
 ---
 
 # Vague Instructions

@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Customer support prompt with deeply vague instructions
 ---
 
 # Vague Customer Support Bot

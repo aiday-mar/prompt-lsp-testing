@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with mismatched and unclosed XML tags
 ---
 
 # Broken Tags

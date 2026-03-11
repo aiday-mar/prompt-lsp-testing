@@ -1,5 +1,5 @@
 ---
-mode: default
+description: default
 ---
 
 # Support Bot With Missing Intent Coverage

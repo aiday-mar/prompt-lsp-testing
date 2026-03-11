@@ -1,5 +1,5 @@
 ---
-mode: base
+description: Strict base coding standards for composition conflict testing
 ---
 
 # Strict Base Standards

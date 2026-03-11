@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt using only weak instruction language
 ---
 
 # Gentle Coder

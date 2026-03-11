@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt overloaded with expensive emoji tokens
 ---
 
 # Emoji-Heavy Prompt 📚🎉✨🚀💡🔥⭐🎯🏆💎

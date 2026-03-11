@@ -1,5 +1,5 @@
 ---
-mode: compose
+description: Composed prompt with path traversal attempts
 ---
 
 # Prompt With Path Traversal

@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with contradicting response length requirements
 ---
 
 # Response Length Prediction

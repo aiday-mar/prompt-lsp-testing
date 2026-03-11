@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt using ambiguous quantifiers instead of specific values
 ---
 
 # Vague Quantities

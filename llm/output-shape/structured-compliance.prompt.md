@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt defining strict schema then undermining it
 ---
 
 # Structured Output Compliance

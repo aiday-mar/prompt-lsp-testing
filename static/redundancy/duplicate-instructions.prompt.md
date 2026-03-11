@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with duplicate instructions repeated verbatim
 ---
 
 # Redundant Rules

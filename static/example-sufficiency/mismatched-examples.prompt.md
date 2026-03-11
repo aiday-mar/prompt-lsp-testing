@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with mismatched input and output example counts
 ---
 
 # Request Transformer

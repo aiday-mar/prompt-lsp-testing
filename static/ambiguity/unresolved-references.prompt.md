@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with dangling references to non-existent sections
 ---
 
 # Dangling References

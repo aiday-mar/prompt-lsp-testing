@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with multiple conflicting priority rules
 ---
 
 # Unclear Precedence Prompt

@@ -1,5 +1,5 @@
 ---
-mode: compose
+description: Composed prompt linking to non-existent files
 ---
 
 # Prompt With Broken Links

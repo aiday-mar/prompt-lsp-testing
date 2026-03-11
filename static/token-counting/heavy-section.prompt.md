@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with one extremely heavy section dwarfing others
 ---
 
 # Prompt With Unbalanced Sections

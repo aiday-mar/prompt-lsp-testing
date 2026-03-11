@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with conflicting refusal and compliance instructions
 ---
 
 # Refusal Behavior

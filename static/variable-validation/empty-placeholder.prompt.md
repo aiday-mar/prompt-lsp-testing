@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with empty variable placeholders
 ---
 
 # Template Prompt

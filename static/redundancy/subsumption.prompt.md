@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt where strong constraints subsume weaker ones
 ---
 
 # Subsumed Constraints

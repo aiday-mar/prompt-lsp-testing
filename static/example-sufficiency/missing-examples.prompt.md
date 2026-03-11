@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt specifying structured output format with no examples
 ---
 
 # JSON Response Formatter

@@ -1,5 +1,5 @@
 ---
-mode: default
+description: Prompt with too many competing must/never constraints
 ---
 
 # Overloaded Constraints
