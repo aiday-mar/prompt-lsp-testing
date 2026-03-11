@@ -6,6 +6,8 @@ mode: default
 
 ## Security Section
 
+Look at the data and validate before processing. 
+
 Always validate user input before processing any data.
 
 Never expose internal error messages to end users.

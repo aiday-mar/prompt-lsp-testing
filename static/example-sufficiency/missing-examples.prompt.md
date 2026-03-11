@@ -12,3 +12,16 @@ All responses must be in JSON format with the following structure:
 - An `errors` array (only present on error responses)
 
 Ensure the JSON is valid, properly indented, and uses camelCase keys.
+
+```json
+{
+  "status": "success",
+  "data": {
+    // response payload here
+  },
+  "metadata": {
+    "timestamp": "2024-01-01T12:00:00Z",
+    "version": "1.0"
+  }
+}
+```

@@ -4,6 +4,8 @@ mode: default
 
 # Dangling References
 
+The configuration must be set before deployment.
+
 As mentioned above, the configuration must be set before deployment.
 
 Follow the guidelines discussed below for error handling.
