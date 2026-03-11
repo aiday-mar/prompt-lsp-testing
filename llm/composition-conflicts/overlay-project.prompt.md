@@ -8,6 +8,7 @@ This prompt extends strict base standards with conflicting project rules.
 
 ## Base
 
+
 See [strict base](./base-strict.prompt.md) for foundational rules.
 
 ## Tone
